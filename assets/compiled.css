@@ -510,7 +510,7 @@ video {
   height: auto;
 }
 
-#Longo {
+.Longo {
   width: 100%;
   /* Firefox */
   display: -moz-box;
